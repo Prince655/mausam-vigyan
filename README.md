@@ -1,25 +1,11 @@
 # Mausam Vigyan
 
-[![Release](https://img.shields.io/github/release/martykan/Mausam Vigyan.png)](https://github.com/martykan/Mausam Vigyan/releases)
-[![Circle CI](https://circleci.com/gh/martykan/Mausam Vigyan/tree/master.png)](https://circleci.com/gh/martykan/Mausam Vigyan/tree/master)
-[![Android CI](https://github.com/martykan/Mausam Vigyan/workflows/Android%20CI/badge.svg)](https://github.com/martykan/Mausam Vigyan/releases=)
-
-A simple, copylefted libre software weather app for Android. It gathers data from [OpenWeatherMap](https://openweathermap.org/), via their public API.
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Get_it_on_F-Droid.svg/200px-Get_it_on_F-Droid.svg.png" style="float: left; padding-right: 10px;">](https://f-droid.org/repository/browse/?fdid=com.mausam.vigyan)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/200px-Google_Play_Store_badge_EN.svg.png" style="float: left; padding-right: 10px;" height="70">](https://play.google.com/store/apps/details?id=com.casticalabs.Mausam Vigyan)
-
 ## Features
 * Simple design
 * Detailed 5 day forecast
 * Multiple units
 * Works with any city in the world
 * Offline functionality
-
-## Screenshots
-[<img src="https://i.imgur.com/8g7HPIL.png" width=250>](https://i.imgur.com/8g7HPIL.png)
-[<img src="https://i.imgur.com/ye2O2B2.png" width=250>](https://i.imgur.com/ye2O2B2.png)
-[<img src="https://i.imgur.com/olkk2cB.png" width=250>](https://i.imgur.com/olkk2cB.png)
 
 ## Contribution
 If you have any ideas or issues, don't hesitate to make contact via the Issues page. Every contribution is welcome. See [Contributing](https://github.com/martykan/Mausam Vigyan/blob/master/CONTRIBUTING.md) for further information.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_en">English</string>
+    <string name="action_hi">हिंदी</string>
+    <string name="action_te">हతెలుగు</string>
+    <string name="action_ta">தமிழ்</string>
+    <string name="action_ur">اردو</string>
+    <string name="action_bn">বাংলা</string>
+    <string name="reports">Reports</string>
+    <string name="source">Video</string>
+    <string name="weather_reports">Weather Reports</string>
+    <string name="disclaimer">©Disclaimer</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="weather_video">Weather Video</string>
+    <string name="language">Language</string>
+    <string name="graph_text">Tap For Graph</string>
+
+</resources>

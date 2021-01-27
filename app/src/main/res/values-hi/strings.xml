@@ -1,0 +1,212 @@
+<!-- Do not change the order of any strings in here, without discussing first on the "Issues" page -->
+<!-- Do not delete any blank lines -->
+<resources>
+    <string name="app_name">Mausam Vigyan</string>
+    <!-- Main activity titles -->
+    <string name="action_search">खोजें</string>
+    <string name="action_refresh">रिफ़्रेश</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action_about">हमारे बारे में</string>
+    <string name="search_title">शहर ढूंढें (अंग्रेजी में लिखें)</string>
+    <string name="language">भाषा</string>
+    <string name="downloading_data">लोड हो रहा है …</string>
+    <string name="getting_location">आपकी लोकेशन खोजी जा रही है …</string>
+    <string name="loading_data">लोडिंग…</string>
+    <string name="reports">रिपोर्ट</string>
+    <string name="source">विडियो</string>
+    <string name="weather_reports">मौसम रिपोर्ट्स</string>
+    <string name="disclaimer">©डिस्क्लेमर</string>
+    <string name="weather_video">मौसम विडियो</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="graph_text">ग्राफ देखें</string>
+
+    <!-- Forecast cards -->
+    <string name="today">आज</string>
+    <string name="tomorrow">कल</string>
+    <string name="later">आगे के दिनों</string>
+
+    <!-- Main activity headings -->
+    <string name="wind">हवा</string>
+    <string name="wind_speed">हवा की गति</string>
+    <string name="pressure">दाब</string>
+    <string name="humidity">आर्द्रता</string>
+    <string name="sunrise">सूर्योदय</string>
+    <string name="sunset">सूर्यास्त</string>
+    <string name="uvindex">यूवी इंडेक्स</string>
+    <string name="tap_for_graphs">ग्राफ के लिए यहाँ दबाएँ</string>
+
+    <!-- Graphs -->
+    <string name="action_graphs">ग्राफ्स</string>
+    <string name="graphs_more_days">अन्य दिनों</string>
+
+    <!-- Map -->
+    <string name="action_weather_map">मौसम मानचित्र</string>
+    <string name="rain">वर्षा</string>
+    <string name="temperature">तापमान</string>
+    <string name="clouds">बादल</string>
+    <!-- Language -->
+
+    <!-- About dialogue -->
+    <string name="about_unknown">Could not get version name</string>
+    <string name="about_description">Mausam Vigyan एक मुफ्त एप्लीकेशन है जो, <a href='https://www.gnu.org/licenses/gpl-3.0.html'> GPL3</a> लाइसेंस के तहत जारी किया गया है। यह <a href='https://github.com/martykan/forecastie'>Forecastie </a> से प्रेरित है.</string>
+    <string name="about_developer">डेवलपर का नाम: <a href='https://www.instagram.com/prince_mfh'>प्रिन्स विश्वकर्मा</a> </string>
+    <string name="about_src">Code is available at <a href='https://github.com/Prince655/mausam-vigyan'>Github</a>, और भी चीजें जल्द ही जोड़ी जाएँगी</string>
+    <string name="about_issues"><b>महत्वपूर्ण बात:</b> शायद आपने ध्यान ना दिया हो लेकिन जो मौसम मानचित्र है उसमें पीओके को पाक में दिखाया गया है इसमें हमारी गलती नहीं है क्योंकि यह डाटा विदेशी संस्था द्वारा प्राप्त होता है. पीओके भारत का अखंड हिस्सा है. <b> हमें डोनेट करें:</b> Paytm:<b>8933832871</b>, UPI: <b>8933832871@paytm</b></string>
+    <string name="about_developers">Originally Developed by <a href='mailto:t.martykan@gmail.com'>Tomáš Martykán sir</a> and <a href='https://github.com/martykan/forecastie/graphs/contributors'>others</a>, with assistance from <a href='https://github.com/martykan/forecastie/issues'>many more</a>.</string>
+    <string name="about_data">Data provided by <a href='https://openweathermap.org/'>OpenWeatherMap</a>, under the <a href='http://creativecommons.org/licenses/by-sa/2.0/'>Creative Commons CC-BY-SA 2.0 licence</a>.</string>
+    <string name="about_icons">Icons are <a href='https://erikflowers.github.io/weather-icons/'>Weather Icons</a>, by <a href='http://www.twitter.com/artill'>Lukas Bischoff</a> and <a href='http://www.twitter.com/Erik_UX'>Erik Flowers</a>, under the <a href='http://scripts.sil.org/OFL'>SIL OFL 1.1</a> licence.</string>
+
+    <!-- Settings/Units -->
+    <string name="settings_title_units">मापन इकाई</string>
+    <string name="setting_lengthUnits">लम्बाई की इकाई</string>
+    <string name="setting_speedUnits">गति की इकाई</string>
+    <string name="setting_tempUnits">ताप की इकाई</string>
+    <string name="setting_showTempAsInteger">केवल पूर्णांक के रूप में तापमान दिखाएं</string>
+    <string name="setting_pressureUnits">दाब की इकाई</string>
+    <string name="setting_auto_detect_location">डिटेक्ट लोकेशन</string>
+    <string name="setting_differentiateDaysByTint">रंग से दिनों में अंतर करें</string>
+
+    <string name="setting_unit_mps">मीटर प्रति सेकंड (मी/से)</string>
+    <string name="setting_unit_kph">किलोमीटर प्रति घंटा (किमी/घ.)</string>
+    <string name="setting_unit_mph">मील प्रति घंटा (मील/घ.)</string>
+    <string name="setting_unit_bft">बोफर्ट पवनवेग मापक्रम (bft)</string>
+    <string name="setting_unit_kn">Knots (kn)</string>
+    <string name="setting_unit_Celsuis">सेल्सियस</string>
+    <string name="setting_unit_Fahrenheit">फ़ारेनहाइट</string>
+    <string name="setting_unit_Kelvin">केल्विन</string>
+
+    <string name="setting_unit_mm">मिलीमीटर (मिमी)</string>
+    <string name="setting_unit_in">इंच (इंच)</string>
+
+    <string name="setting_unit_hpa">हेक्टोपास्कल या मिलीबार</string>
+    <string name="setting_unit_kpa">किलो पास्कल</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">in Hg</string>
+
+    <string name="speed_unit_mps">मी/से</string>
+    <string name="speed_unit_kph">किमी/घ.</string>
+    <string name="speed_unit_mph">मी/घ.</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="pressure_unit_hpa">hPa/mBar</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+    <string name="pressure_unit_inhg">in Hg</string>
+
+    <string name="uvi_no_info">सूचना नहीं</string>
+    <string name="uvi_low">कम</string>
+    <string name="uvi_moderate">मध्यम</string>
+    <string name="uvi_high">उच्च</string>
+    <string name="uvi_very_high">बहुत उच्च</string>
+    <string name="uvi_extreme">चरम</string>
+
+    <!-- Wind direction -->
+    <string name="wind_direction_north">उ.</string>
+    <string name="wind_direction_north_north_east">उउपू</string>
+    <string name="wind_direction_north_east">उद</string>
+    <string name="wind_direction_east_north_east">पूउपू</string>
+    <string name="wind_direction_east">उ</string>
+    <string name="wind_direction_east_south_east">उदउ</string>
+    <string name="wind_direction_south_east">द्पू</string>
+    <string name="wind_direction_south_south_east">ददपू</string>
+    <string name="wind_direction_south">द</string>
+    <string name="wind_direction_south_south_west">ददप</string>
+    <string name="wind_direction_south_west">दप</string>
+    <string name="wind_direction_west_south_west">पदप</string>
+    <string name="wind_direction_west">प</string>
+    <string name="wind_direction_west_north_west">पउप</string>
+    <string name="wind_direction_north_west">उप</string>
+    <string name="wind_direction_north_north_west">उउप</string>
+
+    <!-- Wind strength - Beaufort -->
+    <string name="beaufort_calm">शांत (0)</string>
+    <string name="beaufort_light_air">हल्की हवा (1)</string>
+    <string name="beaufort_light_breeze">हल्की हवा (2)</string>
+    <string name="beaufort_gentle_breeze">मंद बयार (3)</string>
+    <string name="beaufort_moderate_breeze">मध्यम हवा (4)</string>
+    <string name="beaufort_fresh_breeze">ताज़ी हवा (5)</string>
+    <string name="beaufort_strong_breeze">तेज हवा (6)</string>
+    <string name="beaufort_high_wind">उच्च हवा (7)</string>
+    <string name="beaufort_gale">आंधी (8)</string>
+    <string name="beaufort_strong_gale">तेज आंधी (9)</string>
+    <string name="beaufort_storm">तूफ़ान (10)</string>
+    <string name="beaufort_violent_storm">हिंसक तूफान (11)</string>
+    <string name="beaufort_hurricane">भयंकर तूफ़ान (12)</string>
+
+    <!-- Settings/Appearance -->
+    <string name="settings_title_display">दृश्य</string>
+    <string name="setting_theme">थीम</string>
+    <string name="setting_transparent_widget">विजेट को पारदर्शी बनायें</string>
+    <string name="setting_wind_direction_format">हवा दिशासूचक</string>
+    <string name="setting_theme_fresh">साफ</string>
+    <string name="setting_theme_classic">क्लासिक</string>
+    <string name="setting_theme_dark">फ़्रेश डार्क</string>
+    <string name="setting_theme_classic_dark">क्लासिक डार्क</string>
+    <string name="setting_theme_black">साफ काला</string>
+    <string name="setting_theme_classic_black">क्लासिक काला</string>
+
+    <string name="wind_direction_format_none">कुछ नहीं</string>
+    <string name="wind_direction_format_arrows">तीर</string>
+    <string name="wind_direction_format_abbreviations">संक्षिप्त नाम</string>
+    <string name="setting_displayDecimalZeroes">दशमलव शून्य प्रदर्शित करें</string>
+
+    <!-- Settings/Data -->
+    <string name="last_update">आखिरी अपडेट:\n%s</string>
+    <string name="last_update_widget">\nआखिरी अपडेट: %s</string>
+    <string name="settings_title_data">डाटा</string>
+    <string name="setting_refreshInterval">बैकग्राउंड रिफ्रेश दर</string>
+    <string name="settings_none">कुछ नहीं</string>
+    <string name="settings_15min">15 मिनट</string>
+    <string name="settings_30min">30 मिनट</string>
+    <string name="settings_1hour">1 घंटा</string>
+    <string name="settings_2hour">2 घंटा</string>
+    <string name="settings_6hour">6 घंटा</string>
+    <string name="settings_12hour">12 घंटा</string>
+    <string name="settings_24hour">24 घंटा</string>
+    <string name="setting_apiKey">API key</string>
+    <string name="setting_apiKey_summary">Custom API key for OpenWeatherMap queries</string>
+
+    <!-- Settings/Date format -->
+    <string name="error_dateFormat">दिनांक प्रारूप त्रुटि</string>
+    <string name="setting_dateFormat">दिनांक प्रारूप</string>
+    <string name="setting_dateFormatCustom">मनचाहा दिनांक प्रारूप</string>
+    <string name="setting_dateFormatCustom_summary">मनचाही दिनांक प्रारूप श्रृखला भरें </string>
+    <string name="dialog_ok">ठीक है</string>
+    <string name="dialog_cancel">रद्द करें</string>
+
+    <!-- Notification-->
+    <string name="notification_service_description">मौसम पूर्वानुमान नोटिफिकेशन दिखाने की सर्विस</string>
+    <string name="channel_name">मौसम नोटिफिकेशन</string>
+    <string name="no_data">नो डाटा</string>
+
+    <string name="settings_title_notifications">नोटिफिकेशन</string>
+    <string name="settings_enable_notification_title">नोटिफिकेशन में मौसम दिखाएं</string>
+    <string name="settings_notification_type_title">नोटिफिकेशन का प्रकार</string>
+    <string name="settings_notification_type_default">डिफ़ॉल्ट एंड्राइड</string>
+    <string name="settings_notification_type_simple">सरल नोटिफिकेशन</string>
+
+    <!-- Errors -->
+    <string name="msg_err_parsing_json">Error parsing JSON.</string>
+    <string name="msg_http_error">Error while requesting or receiving data.</string>
+    <string name="msg_connection_not_available">Connection not available.</string>
+    <string name="msg_city_not_found">Specified city is not found.</string>
+    <string name="msg_too_many_requests">Too many requests. Please try again.</string>
+    <string name="msg_invalid_api_key">Invalid API key.</string>
+
+
+    <!-- Location -->
+    <string name="settings_title_location">लोकेशन</string>
+    <string name="setting_update_location_automatically">बैकग्राउंड में लोकेशन अपडेट करें</string>
+    <string name="location_settings">लोकेशन सेटिंग</string>
+    <string name="location_settings_message">लोकेशन बंद है. क्या आप सेटिंग में जाकर चालू करेंगे?</string>
+    <string name="location_settings_button">सेटिंग</string>
+    <string name="location_search_heading">लोकेशन</string>
+
+    <!-- Widget -->
+    <string name="widget_label_extensive">सम्पूर्ण</string>
+    <string name="widget_label_time">समय के साथ</string>
+    <string name="widget_label_simple">छोटा मोटा</string>
+    <string name="widget_label_classic">अच्छा वाला</string>
+
+
+</resources>

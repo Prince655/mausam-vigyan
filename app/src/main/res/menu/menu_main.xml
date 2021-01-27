@@ -1,0 +1,76 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mausam.vigyan.activities.MainActivity">
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        android:title="@string/action_refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_magnify_white_24dp"
+        android:title="@string/action_search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_map_white_24dp"
+        android:title="@string/action_weather_map"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        app:showAsAction="always"
+        android:title="">
+    <menu>
+
+    <item
+        android:id="@+id/action_graphs"
+        android:icon="@drawable/sharp_insert_chart_outlined_black_24"
+        android:title="@string/action_graphs"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_location"
+        android:icon="@drawable/sharp_my_location_black_24"
+        android:title="@string/setting_auto_detect_location"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/sharp_settings_black_24"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/action_about"
+        android:icon="@drawable/ic_about_black_24dp"
+        app:showAsAction="never" />
+    <!-- "file" submenu -->
+    <item
+        android:id="@+id/action_lang"
+        android:title="@string/language"
+        android:icon="@drawable/ic_translate"
+        app:showAsAction="never">
+    <menu>
+
+        <item
+            android:id="@+id/action_en"
+            android:title="@string/action_en"/>
+        <item
+            android:id="@+id/action_hi"
+            android:title="@string/action_hi" />
+        <item
+            android:id="@+id/action_ur"
+            android:title="@string/action_ur" />
+        <item
+            android:id="@+id/action_bn"
+            android:title="@string/action_bn" />
+    </menu>
+    </item>
+        <item
+            android:id="@+id/action_pp"
+            android:title="@string/privacy_policy"
+            android:icon="@drawable/ic_baseline_privacy_tip_24"
+            app:showAsAction="never" />
+    </menu>
+    </item>
+</menu>

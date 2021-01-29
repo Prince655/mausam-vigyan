@@ -15,8 +15,8 @@ This application is Free Software: You can use, study share and improve it at yo
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation either version 3 of the License, or
-(at your option) any later version.
-<B>Note:</b>
-If you dare build your business solely from this code, you risk open-sourcing the whole code base.
-If you modify it, you have to indicate changes made to the code.
+(at your option) any later version.<br>
+<B>Note:</b><br>
+If you dare build your business solely from this code, you risk open-sourcing the whole code base.<br>
+If you modify it, you have to indicate changes made to the code.<br>
 Any modifications of this code base MUST be distributed with the same license, GPLv3.

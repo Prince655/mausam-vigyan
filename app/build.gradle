@@ -59,7 +59,7 @@ dependencies {
     implementation 'androidx.preference:preference:1.1.1'
 
 
-    implementation 'io.paperdb:paperdb:2.7.1'
+    implementation 'io.paperdb:paperdb:3.7.1'
 
     /** other dependencies */
     implementation "com.diogobernardino:williamchart:2.2"

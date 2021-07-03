@@ -7,6 +7,9 @@
 * Works with any city in the world
 * Offline functionality
 
+##Note
+*Grab your own API key from openweathermap.org and put in Keys.xml
+
 
 ## Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
